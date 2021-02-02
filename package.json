@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chrisvander/reellecture.git"
+    "url": "git+https://github.com/aram10/reellecture.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chrisvander/reellecture/issues"
+    "url": "https://github.com/aram10/reellecture/issues"
   },
-  "homepage": "https://github.com/chrisvander/reellecture#readme",
+  "homepage": "https://github.com/aram10/reellecture#readme",
   "dependencies": {
     "aws-sdk": "^2.751.0",
     "bootstrap": "^4.5.2",
